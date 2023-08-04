@@ -21,7 +21,7 @@
 - Build 1st Model using CNN not having Good accuracy - Underfit Model
 - Build 2nd Model also not having good accuracy - Overfit Model
 - Do Augmntation for handling imbalance dataset, add 500 images for each class
-- Again Build Model having accuracy ----
+- Again Build Model having Training accuracy : **0.8948** and Validation Accuracy : **0.8478**
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -45,7 +45,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@sachin] - feel free to contact me!
+Created by [@sachin88608] - feel free to contact me!
 
 
 <!-- Optional -->
